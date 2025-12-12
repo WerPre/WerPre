@@ -25,7 +25,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- 👩‍🎓 I'm currently studying Computer Engineering at [Nicolaus Copernicus University in Toruń](https://www.umk.pl/en/)
+- 👩‍🎓 earned a Master of Engineering in Computer Engineering at [Nicolaus Copernicus University in Toruń](https://www.umk.pl/en/)
 - 🌱 Discovering and learning new tools of programming
   
 
